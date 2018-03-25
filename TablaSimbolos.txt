@@ -1,0 +1,33 @@
+201	Inicio	Palabra reservada
+202	entero	Palabra reservada
+301	num1;	Identificador
+203	entero	Palabra reservada
+204	entero	Palabra reservada
+302	c;	Identificador
+205	entero	Palabra reservada
+303	resultado;	Identificador
+206	entero	Palabra reservada
+304	resultado;	Identificador
+305	num1	Identificador
+426	=	Operador Asignacion
+306	num2	Identificador
+427	=	Operador Asignacion
+207	entero	Palabra reservada
+307	c;	Identificador
+308	resultado1	Identificador
+428	=	Operador Asignacion
+208	para	Palabra reservada
+209	entero	Palabra reservada
+309	c	Identificador
+429	=	Operador Asignacion
+310	c	Identificador
+311	resultado	Identificador
+430	=	Operador Asignacion
+312	num1	Identificador
+101	+	Operador Suma
+313	num2;	Identificador
+314	num1	Identificador
+431	=	Operador Asignacion
+315	num1	Identificador
+102	+	Operador Suma
+210	Fin	Palabra reservada

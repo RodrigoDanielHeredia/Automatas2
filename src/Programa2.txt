@@ -1,0 +1,15 @@
+Inicio @
+mientras ( vuela < 5 )
+    si vuela = vuela
+    @417 & puerta = 0.0
+    entero muestra = 0.25@
+    caracter igual == 'w';
+niF
+si (456 || 0)
+    Cadena num1 = 0
+para ( entero calificacion = 0 ; calificacion < 5 ; i + = 1)
+    entero nueva1 = 535.2
+    enttero nu1eva = muestra + nueva1
+    enteroooo 12nueva = nueva * nueva1
+    salida ;; nueva_1 != true
+Fin

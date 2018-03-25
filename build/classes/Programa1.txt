@@ -1,0 +1,14 @@
+Inicio
+entero num1;
+entero num2;@
+entero c;
+entero resultado;
+entero resultado;
+num1 = 1;
+num2 = 5;
+entero c;
+resultado1 = 0;
+para ( entero c = 0; c <= 5; c++; )
+resultado = num1 + num2;
+num1 = num1 + 1;
+Fin
